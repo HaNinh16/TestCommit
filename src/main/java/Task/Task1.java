@@ -24,6 +24,7 @@ public class Task1 {
 
     public boolean isVowel(char c) {
         // write your code here
+        System.out.println("test");
         return true;
     }
 }
